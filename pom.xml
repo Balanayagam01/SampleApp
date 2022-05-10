@@ -8,6 +8,7 @@
 		<version>2.6.7</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
+	<!--  comments2-->
 	<groupId>com.example</groupId>
 	<artifactId>DemoGit</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
