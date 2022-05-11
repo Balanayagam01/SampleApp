@@ -10,6 +10,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<!--  comments2-->
+	<!--  comments3-->
 	<groupId>com.example</groupId>
 	<artifactId>DemoGit</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
